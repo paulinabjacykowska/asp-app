@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Warstwa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 104 104" style="enable-background:new 0 0 104 104;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:currentColor;}
+	.st1{fill:none;stroke:currentColor;stroke-width:7;stroke-miterlimit:10;}
+</style>
+<circle class="st0" cx="52" cy="33" r="9"/>
+<path class="st0" d="M64,68H40V57c0-6.63,5.37-12,12-12h0c6.63,0,12,5.37,12,12V68z"/>
+<g>
+	<path class="st0" d="M85,19v42H19V19H85 M92,12H12v56h80V12L92,12z"/>
+</g>
+<line class="st1" x1="12" y1="80" x2="92" y2="80"/>
+</svg>

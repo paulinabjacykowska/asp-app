@@ -1,0 +1,51 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "prettier": "prettier --write ./src",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo/metro-config": "^0.1.59",
+    "@react-native-async-storage/async-storage": "^1.15.5",
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-navigation/bottom-tabs": "^5.11.8",
+    "@react-navigation/native": "^5.9.3",
+    "@react-navigation/stack": "^5.14.3",
+    "@reduxjs/toolkit": "^1.5.1",
+    "axios": "^0.21.1",
+    "expo": "^42.0.0",
+    "expo-app-loading": "^1.0.1",
+    "expo-font": "~9.2.1",
+    "expo-status-bar": "~1.0.4",
+    "lottie-react-native": "4.0.2",
+    "moment": "^2.29.1",
+    "punycode": "^2.1.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-markdown-display": "^7.0.0-alpha.2",
+    "react-native-modal": "^11.10.0",
+    "react-native-reanimated": "~2.2.0",
+    "react-native-safe-area-context": "3.2.0",
+    "react-native-screens": "~3.4.0",
+    "react-native-svg": "12.1.1",
+    "react-native-svg-transformer": "^0.14.3",
+    "react-native-swiper": "^1.6.0-rc.3",
+    "react-native-vector-icons": "^8.1.0",
+    "react-native-web": "~0.13.12",
+    "react-navigation": "^4.4.4",
+    "react-redux": "^7.2.4",
+    "redux-persist": "^6.0.0",
+    "socket.io-client": "^4.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.0",
+    "prettier": "2.2.1"
+  },
+  "private": true
+}

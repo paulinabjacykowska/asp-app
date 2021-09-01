@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11" height="14" viewBox="0 0 11 14">
+  <defs>
+    <clipPath id="clip-nav_strzalka">
+      <rect width="11" height="14"/>
+    </clipPath>
+  </defs>
+  <g id="nav_strzalka" clip-path="url(#clip-nav_strzalka)">
+    <rect width="11" height="14" fill="none"/>
+    <path id="Path_22" d="M173.333,893.333l5.578,6.215,2.789-3.107,2.789-3.107" transform="translate(902.441 -171.911) rotate(90)" fill="none" stroke="#000" stroke-width="3"/>
+  </g>
+</svg>
