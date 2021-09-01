@@ -15,16 +15,16 @@
 
 <p>
   ASP app is a mobile application designed and created for the students of Academy of Fine Arts in Wrocław.<br>
-  All of the animations was implemented using Lottie.
+  All of the animations were implemented using Lottie.<br>
   The application was developed in collaboration with the students of Academy of Fine Arts who provided UI design.<br>
   Main features include: 
   <ul>
-    <li>viewing information about incoming and past events</li>
+    <li>viewing information about upcoming and past events</li>
     <li>viewing announcements</li>
     <li>viewing timetables</li>
-    <li>pinning chosen timetable for faster viewing</li>
+    <li>pinning chosen timetable for ease of access</li>
     <li>viewing information about faculty, workrooms and workers</li>
-    <li>viewing occasional screen created for the 25th anniversary of Faculty of Graphics and Media Art</li>
+    <li>viewing celebratory screen created for the 25th anniversary of Faculty of Graphics and Media Art</li>
   </ul>
 </p>
 
@@ -43,7 +43,7 @@ If you want to download and run this project on your phone:
   <li>Make sure that you have installed Expo Go app. If not: 
     <br>
     <ul>
-      <li>Head over to Google PlayStore or AppStore and download it</li>
+      <li>Head over to Play Store or App Store and download it</li>
       <li>Open the ExpoGo app and follow the instructions to register for an Expo account</li>
     </ul>
   <li>Download and unpack this repo on your local machine</li>
@@ -70,7 +70,7 @@ Short app walkthrough:
 
 https://user-images.githubusercontent.com/89641881/131746208-17918d7e-49df-4e65-9954-aec435df15c7.mp4
 
-Short demo of functionalities connected with timetables - choosing timetable and pinning it:
+Short demo of timetables functionalities - choosing a timetable and pinning it:
 
 https://user-images.githubusercontent.com/89641881/131746451-8cedfadf-ec10-4bfc-b849-59426fd7aa4b.mp4
 
@@ -88,5 +88,5 @@ https://user-images.githubusercontent.com/89641881/131746451-8cedfadf-ec10-4bfc-
 </ul>
   
 ## Creators
-Created by [Paulina Jacykowska](https://github.com/paulinabjacykowska) and three other students (Marcin Szuster, Agnieszka Ryl, Bartosz Kulig) from Wrocław University of Science and Technology. 
+Created by [Paulina Jacykowska](https://github.com/paulinabjacykowska), Marcin Szuster, Agnieszka Ryl and Bartosz Kulig from Wrocław University of Science and Technology. 
 
