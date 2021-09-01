@@ -88,5 +88,5 @@ https://user-images.githubusercontent.com/89641881/131746451-8cedfadf-ec10-4bfc-
 </ul>
   
 ## Creators
-Created by [Paulina Jacykowska](https://github.com/paulinabjacykowska), Marcin Szuster, Agnieszka Ryl and Bartosz Kulig from Wrocław University of Science and Technology. 
+Created by [Paulina Jacykowska](https://github.com/paulinabjacykowska), Marcin Szuster, Agnieszka Ryl and Bartosz Kulig, students of Wrocław University of Science and Technology. 
 
